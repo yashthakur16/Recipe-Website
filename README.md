@@ -68,7 +68,7 @@ We welcome contributions to expand our collection of recipes! To contribute:
 
 ## Contact
 
-For any questions or feedback, please reach out to [yourname@example.com](mailto:tyash6843@gmail.com).
+For any questions or feedback, please reach out to [tyash6843@gmail.com](mailto:tyash6843@gmail.com).
 
 ---
 
