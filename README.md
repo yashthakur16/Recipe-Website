@@ -7,7 +7,7 @@ Welcome to the Recipe Website repository! This project is a simple, static websi
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 - Simple and clean interface for browsing recipes.
@@ -65,13 +65,10 @@ We welcome contributions to expand our collection of recipes! To contribute:
     ```
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or feedback, please reach out to [yourname@example.com](mailto:yourname@example.com).
+For any questions or feedback, please reach out to [yourname@example.com](mailto:tyash6843@gmail.com).
 
 ---
 
